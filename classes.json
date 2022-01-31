@@ -1,5 +1,36 @@
-{
-   
-    "version": "0.2.0",
-    "configurations": []
-}
+[{ 
+    "id" : 1,
+    "Course" : "Geometry H",
+    "Grade" : [9],
+    "Homework" : 2.5,
+    "Level" : "Honors",
+    "Prerequisites" : "Algebra", 
+    "Category" : "Math",
+    "Length" : "Year",
+    "Pair" : false 
+},
+{ 
+    "id" : 2,
+    "Course" : "Western Literature",
+    "Grade" : [9,10],
+    "Homework" : "2.5 hours",
+    "Level" : "Regular",
+    "Prerequisites" : "None",
+    "Category" : "English",
+    "Length" : "Semester",
+    "Pair" : true,
+    "Autofill" : "Communication" 
+},{ 
+    "id" : 3,
+    "Course" : "Communication",
+    "Grade" : [9,10],
+    "Homework" : "2.5 hours",
+    "Level" : "Regular",
+    "Prerequisites" : "None",
+    "Category" : "English",
+    "Length" : "Semester",
+    "Pair" : true,
+    "Autofill" : "Western Literature" 
+}]
+
+
