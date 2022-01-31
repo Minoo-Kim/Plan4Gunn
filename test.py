@@ -1,10 +1,10 @@
 badboy = "minoo"
 
 
-print("jacob is gay")
-def mingay():
-    print("minoo gayer than your mom")
+print("jacob is ")
+def minga():
+    print("minoo ")
 
-mingay()
+minga()
 
 
