@@ -1,5 +1,6 @@
 import java.util.*;
 public class student {
+    
     // stores json ids 
     static ArrayList<Integer> taken;
     static ArrayList<Integer> gr9;
@@ -11,7 +12,7 @@ public class student {
         System.out.println("testing java");
     }
 
-    static boolean addClass(int cl){
+    static boolean addClass(Course cl){
         if(taken.contains(cl)){
             taken.add(cl);
         }
